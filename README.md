@@ -9,7 +9,7 @@ without the coupling to the external bosonic bath.
   including the coupling to the external bosonic bath. Inclusion of the external bosonic bath induces transitions between the fermionic (Andreev states and continuum states) and requires
   solving the Lindblad equation - here in the form of the many-body steady state.
 
-Note: *This is the work in progress!* The mean-field self-consistency loop may require parameter tuning
+Note: *The code is a work in progress and mainly intended for experimentation!* The mean-field self-consistency loop may require parameter tuning
 to achieve convergence for certain regimes. The implementation here
 demonstrates the numerical workflow used in the project.
 
